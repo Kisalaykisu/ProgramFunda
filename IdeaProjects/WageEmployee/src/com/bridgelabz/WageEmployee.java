@@ -1,3 +1,5 @@
+//WageEmployee Welcome message
+
 package com.bridgelabz;
 
 public class WageEmployee {
